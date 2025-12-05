@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "pinvtest",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "pinv-openapi-db",
+			"database_id": "9b34230c-5664-4e7c-9bb0-b08571850c6a"
+		}
+	]
+}
